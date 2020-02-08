@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logs>
+  <date id="20191225">
+    <task id="1">
+      <time>33</time>
+      <topic>33</topic>
+      <people>333</people>
+      <result>333</result>
+      <reason>
+      </reason>
+      <dependence>33</dependence>
+      <isdelete>0</isdelete>
+    </task>
+  </date>
+</logs>
